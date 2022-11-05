@@ -1,4 +1,5 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://linkedin.com/in/manas-kshatriya-32a776210)
+<!-- [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif)](https://linkedin.com/in/manas-kshatriya-32a776210) -->
+<img align="right" alt="Coding" width="1000" height="700" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 <h1 align="center">Hi 👋, I'm Manas Kshatriya</h1>
 <h3 align="center">I'm a curious, passionate engineer who loves problem solving and a Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">

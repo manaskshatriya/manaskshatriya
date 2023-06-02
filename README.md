@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaskshatriya&label=Profile%20views&color=0e75b6&style=flat" alt="manaskshatriya" /> </p>
 
-- 🔭 I’m currently working on [eSim Cloud]([https://github.com/manaskshatriya/DadachiShala](https://github.com/manaskshatriya/eSim-Cloud))
+- 🔭 I’m currently working on [eSim Cloud]([https://github.com/manaskshatriya/eSim-Cloud])
 
 - 🌱 I’m currently learning **Firebase, Next.js**
 
